@@ -1,0 +1,18 @@
+text battle, take turns in strike / avoid
+
+player selects weapons  from a choice of three options
+
+take turns in attacking and avoiding against a cpu opponent (dash left or right)
+*player start
+*attack
+*pick dodge action
+*CPU attack 
+*CPU dodge
+
+repeats this process play switches back to player
+cpu actions will be controlled via random(0, 1)( attack left, right)
+
+
+game over when player health <=0
+game over when enemy health <=0
+else keep playing
